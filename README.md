@@ -120,11 +120,13 @@ To get there, either type "shift-command-g" while being in the folder, or use th
 ![](pictures/p2.png)
 
 Type "~/Library":
+
 ![](pictures/p1.png)
 
 Then click on "Keyboards Layouts"
 
 ![](pictures/p4.png)
+
 Copy both the "keylayout" and the "icns" files for the layouts you want.
 
 In this example, I have copied three different keyboards. You are quite likely to need only one.
@@ -135,6 +137,7 @@ Then, you need to activate the keyboards. Open `System Preferences`, and select 
 
 
 ![](pictures/p6.png)
+
 Activate the keyboards and characters selectors (I don't know why they specifically speak about Emojis... it's about all kinds of characters !)
 
 
@@ -144,6 +147,7 @@ Open the keyboard menu on the top right of your screen (normally indicated by
 the flag for your current keyboard). Select the last item `Open Keyboard Preferences`
 
 ![](pictures/p8.png)
+
 In the keyboard selection tab, click on "+".
 
 ![](pictures/p9.png)
