@@ -160,12 +160,12 @@ It will be possible to change keyboard either through the keyboard menu, or with
 
 
 ## Why no IFAO-compatible keyboard?
-When unicode did not have a yod and an aleph, the IFAO press,
-which wanted to use unicode, decided to use similar-looking 
-characters to render aleph and ayin. They still support this
-(and some databases, like trismegistos, too). 
-I could easily produce a keyboard with their encoding (and actually,
-I did it for my own use). You can edit one of my keyboards and produce 
+In the 1990's, the IFAO press wanted to use Unicode. But there were no
+ayin, aleph nor yod. They decided to use similar-looking 
+characters to render aleph and ayin - as lots of fonts had those characters, it was a relatively practical move. To get fine printing result, one had just to adapt the existing fonts. This system has been used by others, including for databases. Trismegistos is an example.
+
+I could easily produce a keyboard with this encoding (and actually,
+I have done it for my own use). You can edit one of my keyboards and produce 
 an IFAO-compatible keyboard too, but I won't distribute it. 
 The reason is that I want to encourage the adoption of 
 standard Unicode encoding. We now have alph, ayin, and yod in Unicode,
