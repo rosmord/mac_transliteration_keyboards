@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 1.8b3 on 2009-07-06 at 17:14 (CEST)-->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-06-11 at 15:39 (CEST)-->
+<!--Last edited by Ukelele version 380 on 2024-02-14 at 15:04 (CET)-->
 <keyboard group="126" id="-2" name="egtrl-us-A7BD" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -911,12 +911,13 @@
             <key code="7" output="ẖ"/>
             <key code="8" output="H̭"/>
             <key code="9" output="V"/>
+            <key code="10" output=""/>
             <key code="11" output="B"/>
-            <key code="12" output="q"/>
+            <key code="12" output="ḳ"/>
             <key code="13" output="W"/>
             <key code="14" output="E"/>
             <key code="15" output="R"/>
-            <key code="16" output="Y"/>
+            <key code="16" output="ï"/>
             <key code="17" output="ṯ"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
@@ -929,7 +930,7 @@
             <key code="26" output="&#x0026;"/>
             <key code="27" output="-"/>
             <key code="28" output="*"/>
-            <key code="29" output=")"/>            
+            <key code="29" output=")"/>
             <key code="30" output="}"/>
             <key code="31" output="O"/>
             <key code="32" output="U"/>
@@ -947,7 +948,7 @@
             <key code="44" output="?"/>
             <key code="45" output="N"/>
             <key code="46" output="M"/>
-            <key code="47" output="&#x003E;"/>     
+            <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=""/>
             <key code="50" output="~"/>
@@ -1779,12 +1780,12 @@
             <when state="hooked" output="Ƥ"/>
         </action>
         <action id="Q">
-            <when state="none" output="Ḳ"/>
+            <when state="none" output="Q"/>
             <when state="specials" output="Ƣ"/>
             <!-- added -->
         </action>
         <action id="Q1">
-            <when state="none" output="Q"/>
+            <when state="none" output="Ḳ"/>
             <when state="specials" output="Ƣ"/>
         </action>
         <action id="R">
@@ -2037,7 +2038,7 @@
             <!-- added -->
         </action>
         <action id="Y1">
-            <when state="none" output="Y"/>
+            <when state="none" output="Ï"/>
             <when state="acute" output="Ý"/>
             <when state="circumflex" output="Ŷ"/>
             <when state="diaeresis" output="Ÿ"/>
@@ -2461,7 +2462,7 @@
             <!-- added -->
         </action>
         <action id="q">
-            <when state="none" output="ḳ"/>
+            <when state="none" output="q"/>
             <when state="hooked" output="ʠ"/>
             <!-- added -->
             <when state="specials" output="ƣ"/>
